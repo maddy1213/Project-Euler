@@ -1,0 +1,18 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "Poject Euler Solutions in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jest",
+    "euler"
+  ],
+  "author": "Madhulika Chavva",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
